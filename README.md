@@ -1,6 +1,7 @@
 # Polimi Projects Repository
 
 Welcome to my University Projects repository! This is a collection of small projects I worked on during my time at university. Each project showcases my learning and development in various subjects, including programming, algorithms, data analysis, and more.
+
 ---
 
 ## 📁 Repository Structure
